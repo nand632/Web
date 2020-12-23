@@ -473,7 +473,7 @@ nav ul.sub-menu li a {
   display: block;
 }
 nav ul.sub-menu li a.linkedin {
-  background: url("/creativedreams.design/img/icon__dribbble.svg") no-repeat 50% 50%;
+  background: url("../img/icon__linkedin.svg") no-repeat 50% 50%;
   background-size: 1.75em;
 }
 nav ul.sub-menu li a.instagram {
